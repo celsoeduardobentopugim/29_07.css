@@ -1,0 +1,40 @@
+body,h2{
+    margin:50px auto 0 auto ;
+    background-color: #3d2476;
+    border: 55px solid 0;
+}
+
+
+
+h1,p{
+    font-family: arial, helvetica,sans-serif;
+}
+body{
+    margin: 90px;
+    background-color:#4b4b4b;
+}
+.box_container{
+    display: block;
+    width: 615px;
+    height: 515;
+    margin:50px auto 0 auto ;
+    border: 7px solid black;
+    border-radius: 23px;
+    background-color: white;
+    text-align: center;
+}
+
+.box_container h1{
+    font-size: 30px ;
+    font-weight: bold;
+    color:black;
+text-transform:uppercase ;
+margin-top: 192px;
+}
+.box_container p{
+    
+    font-size:40px ;
+    font-weight: normal;
+    color:#4b4b4b ;
+    
+}
